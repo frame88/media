@@ -1,1 +1,6 @@
-DATA        MONEY   MEDIA
+DATA    MONEY   MEDIA
+
+7/3/22	25.7	La tua media giornaliera: 25.7 euro
+8/3/22	29.9	La tua media giornaliera: 27.799999999999997 euro
+9/3/22	37.2	La tua media giornaliera: 30.933333333333334 euro
+10/3/22	54.0	La tua media giornaliera: 36.7 euro
